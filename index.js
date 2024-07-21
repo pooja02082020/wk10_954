@@ -18,7 +18,7 @@ const config = {
     user: 'pooja',
     password: 'P@ssw0rd',
     server: 'wk10954.database.windows.net',
-    database: 'week9',
+    database: 'wk10',
   options: {
     encrypt: true,
     enableArithAbort: true
